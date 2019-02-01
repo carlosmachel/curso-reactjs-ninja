@@ -21,12 +21,24 @@ webpack:
 npm install --save-dev webpack@1
 ```
 
+Instale também o `webpack` de forma global, para usar o comando `webpack` no seu terminal:
+
+```
+npm install -g webpack@1
+```
+
 ### Vídeo 3
 
 webpack-dev-server:
 
 ```
 npm install --save-dev webpack-dev-server@1
+```
+
+Instale também o `webpack-dev-server` de forma global, para usar o comando `webpack-dev-server` no seu terminal:
+
+```
+npm install -g webpack-dev-server@1
 ```
 
 ### Vídeo 5
@@ -85,4 +97,20 @@ Instalação do `getstorybook` global:
 
 ```
 npm i -g getstorybook@1.6.1
+```
+
+### M2#A33
+
+Instalação do `extract-text-webpack-plugin`:
+
+```
+npm i --save-dev extract-text-webpack-plugin@1
+```
+
+### M2#A34
+
+Instalação do `css-loader`:
+
+```
+npm i --save-dev css-loader@0
 ```
